@@ -1,1 +1,2 @@
 # Kontrolnay rabota
+Алгоритм решения.
